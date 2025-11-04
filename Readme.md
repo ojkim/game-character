@@ -2,8 +2,6 @@
 
 ## 1. 프로젝트 실행 방법 (Run)
 
-이 프로젝트는 Gradle Wrapper를 사용하여 실행할 수 있습니다.
-
 **Windows (cmd/powershell):**
 ```bash
 ./gradlew.bat run
